@@ -101,14 +101,14 @@ _Response Example:_
 ```
 
 ## Screenshots
-### 1. Home Page
-![Home Page](screenshots/home.png)
+### 1. Create Person
+![Create Person](./screenshots/create_person.png)
 
-### 2. Postman API Calls
-![Postman](screenshots/postman.png)
+### 2. Get All Persons
+![Postman](./screenshots/get_all_person.png)
 
 ### 3. MongoDB Database View
-![MongoDB](screenshots/mongo.png)
+![MongoDB](./screenshots/mongo.png)
 
 ## Installation & Usage
 1. Clone the repository:
